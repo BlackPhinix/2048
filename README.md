@@ -1,2 +1,4 @@
 # 2048
-game
+
+
+a fun mathimatical game with awesome expierence html and css game
